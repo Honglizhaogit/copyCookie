@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    width: 500px;
+    height: 300px;
+}
+
+body {
+    padding: 8px;
+}
+
+.container h4 {
+    margin-top: 20px;
+}
+.container input {
+    margin-top: 16px;
+    width: 300px;
+    outline: none;
+    border: 1px solid #ccc;
+    height: 40px;
+    padding: 0 8px;
+}
+
+.container #btn {
+    width: 100px;
+    height: 40px;
+    background: #008c8c;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-top: 16px;
+    color: white;
+    font-size: 16px;
+}
